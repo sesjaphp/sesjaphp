@@ -4,4 +4,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=sesjaphp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sesjaphp&theme=dark&hide_border=false)<br/>
 
-<img src="https://raw.githubusercontent.com/sesjaphp/sesjaphp/output/snake.svg" alt="Snake animation" />
+![snake animation](https://raw.githubusercontent.com/sesjaphp/sesjaphp/output/snake.svg)
