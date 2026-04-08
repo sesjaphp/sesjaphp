@@ -3,6 +3,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=sesjaphp&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=sesjaphp&theme=dark&hide_border=true&cache_seconds=86400)<br/>
 
 ![snake animation](https://raw.githubusercontent.com/sesjaphp/sesjaphp/output/snake.svg)
