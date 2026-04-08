@@ -5,6 +5,6 @@
 
 # statistics:
 
-![](https://streak-stats.demolab.com/?user=sesjaphp&theme=dark&hide_border=true&cache_seconds=86400) ![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sesjaphp&langs_count=8&layout=compact&theme=dark&border_radius=10)
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sesjaphp&langs_count=8&layout=compact&theme=dark&border_radius=10)
 
 ![snake animation](https://raw.githubusercontent.com/sesjaphp/sesjaphp/output/snake.svg)
